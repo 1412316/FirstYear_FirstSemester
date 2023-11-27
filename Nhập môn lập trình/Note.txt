@@ -1,0 +1,6 @@
++ Basic (Done)
++ Condition: Bài 4b, 4c, 4f, 5, 8 , 9, 10
++ Loop: Bài 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24
++ Array: 
++ String: 
++ Struct: 
